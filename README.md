@@ -1,2 +1,2 @@
 # UE4StudyGroupDocument
-UE4新大阪勉強会の登壇資料
+新大阪UE4勉強会の登壇資料
